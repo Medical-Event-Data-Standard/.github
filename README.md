@@ -1,1 +1,1 @@
-# .github
+# Event Stream Data Standard
