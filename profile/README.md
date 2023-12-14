@@ -9,6 +9,9 @@ Relevant repos:
 
 Tools that are (or will soon be) compatible with MEDS (ordered alphabetically):
   * ESGPT: https://eventstreamml.readthedocs.io/en/latest/
-  * FEMR:
+  * FEMR: https://github.com/som-shahlab/femr
   * GenHPF: https://github.com/hoon9405/GenHPF/tree/master/preprocess/meds_support
   * YAIB: https://github.com/rvandewater/YAIB
+
+Pretrained models that are compatible with MEDS:
+  * clmbr-t-base: https://huggingface.co/StanfordShahLab/clmbr-t-base
