@@ -11,4 +11,4 @@ Tools that are (or will soon be) compatible with MEDS (ordered alphabetically):
   * ESGPT: https://eventstreamml.readthedocs.io/en/latest/
   * FEMR:
   * GenHPF:
-  * YAIB: 
+  * YAIB: https://github.com/rvandewater/YAIB
