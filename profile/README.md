@@ -3,7 +3,7 @@ This organization contains GitHub Repositories for the _Medical Event Data Stand
 
 Relevant repos:
   * The MEDS schema: https://github.com/Medical-Event-Data-Standard/meds
-  * Some reference MEDS ETLs: https://github.com/Medical-Event-Data-Standard/meds_etl
+  * Reference MEDS ETLs: https://github.com/Medical-Event-Data-Standard/meds_etl
   * [IN PROGRESS] MEDS transformations for data pre-processing: https://github.com/Medical-Event-Data-Standard/meds_transformations
   * [IN PROGRESS] A sample MEDS model for binary classification using some of the transformations and showing how the schema can be used: https://github.com/Medical-Event-Data-Standard/meds_transformations
 
