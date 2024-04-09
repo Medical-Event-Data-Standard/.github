@@ -7,9 +7,12 @@ Relevant repos:
   * [IN PROGRESS] MEDS transformations for data pre-processing: https://github.com/Medical-Event-Data-Standard/meds_transformations
   * [IN PROGRESS] A sample MEDS model for binary classification using some of the transformations and showing how the schema can be used: https://github.com/Medical-Event-Data-Standard/meds_transformations
 
-Tools that are (or will soon be) compatible with MEDS (ordered alphabetically):
-  * ESGPT: https://eventstreamml.readthedocs.io/en/latest/
+
+Tools that are compatible with MEDS (ordered alphabetically):
   * FEMR: https://github.com/som-shahlab/femr
+
+Tools that are planned to be compatible with MEDS:
+  * ESGPT: https://eventstreamml.readthedocs.io/en/latest/
   * GenHPF: https://github.com/hoon9405/GenHPF/tree/master/preprocess/meds_support
   * YAIB: https://github.com/rvandewater/YAIB
 
