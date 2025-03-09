@@ -7,7 +7,7 @@ Thank you for your interest in contributing to MEDS! We welcome contributions fr
 ### Reporting Issues
 
 If you find any bugs, inconsistencies, or have feature requests, please:
-- Check both open and closed issues in the issues sectionto ensure your issue hasn't already been addressed or previously discussed.
+- Check both open and closed issues in the issues section to ensure your issue hasn't already been addressed or previously discussed.
 - Clearly describe the problem, including steps to reproduce and expected vs. actual behavior.
 - If reopening a previously closed issue, clearly state why you believe this issue now merits reconsideration.
 
