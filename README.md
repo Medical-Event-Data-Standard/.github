@@ -1,1 +1,2 @@
-# Event Stream Data Standard
+# MEDS
+See the [main README](https://github.com/Medical-Event-Data-Standard).
