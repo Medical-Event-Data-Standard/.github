@@ -53,7 +53,7 @@ Pull requests (PRs) are warmly welcomed! New contributions should generally buil
      ```
    - Ensure your code passes all checks locally before submitting your PR to shorten development iterations.
 
-5. **Update Documentation**: Always update documentation alongside your changes. If you modify schemas or dataset structures, reflect those changes clearly in relevant README sections and schema documentation.
+5. **Update Documentation**: Always update documentation alongside your changes. If you modify schemas or dataset structures, reflect those changes clearly in the relevant README sections and schema documentation.
    - Docstrings should follow the Google style guide and include doctests where appropriate.
 
 6. **Submit Your PR**: Push your changes to your fork and submit a PR:
@@ -67,6 +67,7 @@ Pull requests (PRs) are warmly welcomed! New contributions should generally buil
 - Use Google-style docstrings with doctests where applicable.
 - Clearly document new functions, methods, or schema changes.
 - Ensure consistency with existing schema definitions.
+- Make sure you clearly document the current base version of MEDS data that the tool is compatible with.
 
 ### Review Process
 
