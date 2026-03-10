@@ -17,6 +17,8 @@ This organization contains GitHub Repositories for the _Medical Event Data Stand
 | FEMR            | Package |                                                        | [GitHub](https://github.com/som-shahlab/femr)             |                                    | A Python package for manipulating longitudinal EHR data for machine learning, with a focus on supporting the creation of foundation models and verifying their presumed benefits in healthcare. |
 | MEDS-DEV | Benchmark |  | [GitHub](https://github.com/mmcdermott/MEDS-DEV) | | A benchmark for evaluating the performance of machine learning models on MEDS-formatted data. |    
 | MEDS-Inspect | Package |  | [GitHub](https://github.com/rvandewater/MEDS-Inspect) | | A package to interactively inspect your MEDS data. |    
+| TwinWeaver      | Package | [Docs](https://mendenlab.github.io/TwinWeaver/)   | [GitHub](https://github.com/MendenLab/TwinWeaver)         | [arXiv](https://arxiv.org/abs/2601.20906) | A package for training & evaluating LLMs on longitudinal clinical data. |
+
 
 ## Pretrained Models
   * CLMBR-T-base: https://huggingface.co/StanfordShahLab/clmbr-t-base
